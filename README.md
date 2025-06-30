@@ -9,7 +9,7 @@ It’s a simple static page that displays a recipe card with an image, preparati
 - Google Fonts (Outfit & Young Serif)
 
 ## 🔗 Live Preview
-[View Live Site](https://your-github-username.github.io/recipe-page/)
+[View Live Site](https://hemang1404.github.io/recipe-page-main/))
 
 ## ✍️ Author
 - Frontend Mentor - [@hemang1404](https://www.frontendmentor.io/profile/hemang1404)
